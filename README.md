@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Jamie Ray   
 
-<!--
-**JMEtechFlow/JMEtechFlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Architecting the cloud, one intentional path at a time.**
+--- 
+## About Me  
+I'm an educator, and aspiring cloud administrator currently training 
+through the Microsoft Software & Systems Academy (MSSA). With a foundation
+and 10+ years leading in education, building curriculum, coaching stakeholders,and 
+turning complex ideas into clear action. I bring a people-centered approach to every 
+technical challenge. I believe the best infrastructure is built with intention,
+just like the ancient pathways of Italy: purposeful, enduring, and designed to connect.  
+--- 
+## Currently Working On  
+**MSSA Coursework:** Windows Server, Active Directory, Group  
+Policy, PowerShell, Azure, networking, and identity management
+**Collaborative Learning:** Facilitating study groups and 
+designing interactive presentations on IT infrastructure topics 
+**Professional Branding:** Building a brand that bridges 
+education leadership and cloud technology  
+---
+## Core Skills  
+- Windows Server Administration
+- Active Directory & Group Policy
+- PowerShell Scripting
+- Networking & Storage
+- Identity Management
+- Project Management & Stakeholder Communication
+- Curriculum Development & Technical Training  
+---
+## Let's Connect  
+I'm always open to collaboration, mentorship, and meaningful
+conversation about cloud infrastructure, career transitions,
+or creative problem-solving.  
+**LinkedIn:** [linkedin.com/in/jamierayu](https://linkedin.com/in/jamierayu)  
+--- 
+*The best paths are the ones we build together.* 🇮🇹
