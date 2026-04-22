@@ -2,7 +2,25 @@
 
 
 
+<div align="center">
 
+  <h1 style="font-family: 'Segoe UI', sans-serif; font-weight: 600; color:#b8a9a4; letter-spacing: 1px;">
+    JMEtechFlow
+  </h1>
+
+  <p style="font-family: 'Segoe UI', sans-serif; font-size: 16px; color:#6f6a67; max-width: 600px;">
+    Crafting elegant, human-centered tech pathways with clarity, creativity, and flow.
+  </p>
+
+  <hr style="width: 40%; border: 0; height: 1px; background: linear-gradient(to right, #d8d2cd, #b8a9a4, #d8d2cd);">
+
+  <p style="font-family: 'Segoe UI', sans-serif; font-size: 14px; color:#8a8582;">
+    Cloud • Support • Project Management  
+    <br>
+   
+  </p>
+
+</div>
 
 # Welcome to my world, I'm Jamie Ray!   
 
