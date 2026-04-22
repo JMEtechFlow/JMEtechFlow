@@ -1,3 +1,9 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f922b643-86b8-413b-a338-70d4c0a4f9fb" />
+
+
+
+
+
 # Hi, I'm Jamie Ray   
 
 **Architecting the cloud, one intentional path at a time.**
