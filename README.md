@@ -1,10 +1,10 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f922b643-86b8-413b-a338-70d4c0a4f9fb" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dbfb7a65-b12a-408e-83c9-d213b3d0af46" />
 
 
 
 
 
-# Hi, I'm Jamie Ray   
+# Welcome to my world, I'm Jamie Ray!   
 
 **Architecting the cloud, one intentional path at a time.**
 --- 
